@@ -7,7 +7,7 @@ I'm a Software Engineer | Passionate about Web Development, Open Source, and Pro
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:johnrezaik@gmail.com)
 
 
-## 🛠️ Skills & Technologies
+
 
 <div>
   <table>
