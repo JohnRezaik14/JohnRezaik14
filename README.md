@@ -56,8 +56,9 @@ I'm a Software Engineer | Passionate about Web Development, Open Source, and Pro
 <td valign="top" width="50%">
   <h2>📊 GitHub Stats</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnRezaik14&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRezaik14&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=JohnRezaik14&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRezaik14&layout=compact&theme=radical&hide=html&langs_count=8" alt="Top Languages" />
 </td>
 </tr>
 </table>
