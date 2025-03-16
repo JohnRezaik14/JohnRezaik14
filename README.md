@@ -28,7 +28,6 @@ I'm a Software Engineer | Passionate about Web Development, Open Source, and Pro
 
 ### 🔧 Additional Tools & Skills
 `Git` • `Linux` • `Express.js` • `JSON` • `API Design`  
-`Regular Expressions` • `TCP/IP` • `Data Modeling` • `Debugging` • `Agile Methodology`
 
 </div>
 
