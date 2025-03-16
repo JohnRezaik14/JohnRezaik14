@@ -9,7 +9,9 @@ I'm a Software Engineer | Passionate about Web Development, Open Source, and Pro
 
 ## 🛠️ Skills & Technologies
 
-### Programming Languages
+<div>
+  <div align="left" width="47%">
+   ### Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,6 +45,13 @@ I'm a Software Engineer | Passionate about Web Development, Open Source, and Pro
 ![RegEx](https://img.shields.io/badge/Regular_Expressions-009688?style=for-the-badge&logo=regex&logoColor=white)
 
 ---
+  </div>
+<div align="right" width="47%">
+    <!-- GitHub Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=JohnRezaik14&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRezaik14&layout=compact&theme=radical" alt="Top Languages" />
+  </div>
+</div>
 <!--
 **JohnRezaik14/JohnRezaik14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
