@@ -6,9 +6,6 @@ I'm a Software Engineer | Passionate about Web Development, Open Source, and Pro
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](your-portfolio-url)-->
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:johnrezaik@gmail.com)
 
-
-
-
 <div>
   <table>
   <tr>
@@ -27,8 +24,11 @@ I'm a Software Engineer | Passionate about Web Development, Open Source, and Pro
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
   <h3>Database Systems</h3>
   
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,20 +39,15 @@ I'm a Software Engineer | Passionate about Web Development, Open Source, and Pro
   ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF6B6B?style=for-the-badge)
   ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-5C2D91?style=for-the-badge)
   ![Networks](https://img.shields.io/badge/Computer_Networks-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+  ![Design Patterns](https://img.shields.io/badge/Design_Patterns-8E44AD?style=for-the-badge)
   
   <h3>DevOps & System Administration</h3>
   
   ![RedHat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-  ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   
-  <h3>Tools & Additional Skills</h3>
   
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-  ![API](https://img.shields.io/badge/API_Design-0078D7?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![RegEx](https://img.shields.io/badge/Regular_Expressions-009688?style=for-the-badge&logo=regex&logoColor=white)
 </td>
 <td valign="top" width="50%">
   <h2>📊 GitHub Stats</h2>
@@ -65,17 +60,3 @@ I'm a Software Engineer | Passionate about Web Development, Open Source, and Pro
 </table>
 
 </div>
-<!--
-**JohnRezaik14/JohnRezaik14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
