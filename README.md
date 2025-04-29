@@ -2,10 +2,15 @@
 
 I'm a Software Engineer | Passionate about Web Development, Open Source, and Problem-Solving
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/john-r-a1b4792b9/)
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](your-portfolio-url)-->
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:johnrezaik@gmail.com)
-[![📄 View My CV](https://img.shields.io/badge/CV-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/17laBU8eOQkJCloq1WA1d2Vtc5__Lgx4P/view?usp=sharing)
+<!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/john-r-a1b4792b9/)
+
+<!-- Email -->
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:johnrezaik@gmail.com)
+
+<!-- CV -->
+[![📄 Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/17laBU8eOQkJCloq1WA1d2Vtc5__Lgx4P/view?usp=sharing)
+
 
 
 
