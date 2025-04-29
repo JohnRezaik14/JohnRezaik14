@@ -5,6 +5,9 @@ I'm a Software Engineer | Passionate about Web Development, Open Source, and Pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/john-r-a1b4792b9/)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](your-portfolio-url)-->
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:johnrezaik@gmail.com)
+[![📄 View My CV](https://img.shields.io/badge/CV-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/17laBU8eOQkJCloq1WA1d2Vtc5__Lgx4P/view?usp=sharing)
+
+
 
 <div>
   <table>
