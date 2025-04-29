@@ -3,13 +3,13 @@
 I'm a Software Engineer | Passionate about Web Development, Open Source, and Problem-Solving
 
 <!-- LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/john-r-a1b4792b9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/john-r-a1b4792b9/)       [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:johnrezaik@gmail.com)         [![📄 Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/17laBU8eOQkJCloq1WA1d2Vtc5__Lgx4P/view?usp=sharing)
 
 <!-- Email -->
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:johnrezaik@gmail.com)
+
 
 <!-- CV -->
-[![📄 Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/17laBU8eOQkJCloq1WA1d2Vtc5__Lgx4P/view?usp=sharing)
+
 
 
 
