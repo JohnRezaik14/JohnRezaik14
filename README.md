@@ -62,20 +62,19 @@ I'm a Software Engineer | Passionate about Web Development, Open Source, and Pro
   
   
 </td>
+<!--
 <td valign="top" width="50%">
 <h2>📊 GitHub & WakaTime Stats</h2>
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnRezaik14&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=JohnRezaik14&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRezaik14&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRezaik14&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />-->
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JohnRezaik14&theme=radical&layout=compact" alt="WakaTime Stats" /> -->
 
-</div>
-
-</td>
+</td> 
 </tr>
 </table>
 
